@@ -1,6 +1,7 @@
+*template-gym
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-![Screenshot (5)](https://github.com/REZA-OJAGHI-DRO/Template-Speaker/assets/145910720/2be96fdb-21d1-439e-8f5d-15d9b66b6ff0)
+![Screenshot (7)](https://github.com/REZA-OJAGHI-DRO/template-gym/assets/145910720/ba6c6e4e-289e-4f38-ac66-2440cd9f7ea6)
 
 - [Demo Project](https://reza-ojaghi-dro.github.io/Template-Speaker/)
  
